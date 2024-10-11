@@ -65,7 +65,7 @@ Here's a preview of the [Foodie](https://s-naveenkumar-001.github.io/Frontend-Fa
 1. Clone or download the repository to your local machine. Using following code clone the repository
    
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/s-naveenkumar-001/Frontend-Fast-Food-Restaurant-Project.git
    ```
 3. Open the `index.html` file in your browser.
 4. Explore the different sections: browse the menu, read blogs, and place an order!
