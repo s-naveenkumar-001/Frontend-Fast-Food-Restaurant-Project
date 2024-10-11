@@ -70,5 +70,7 @@ Here's a preview of the **Foodie** website:
 3. Open the `index.html` file in your browser.
 4. Explore the different sections: browse the menu, read blogs, and place an order!
 
+## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
