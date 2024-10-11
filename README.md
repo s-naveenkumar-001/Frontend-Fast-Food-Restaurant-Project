@@ -4,7 +4,7 @@
 
 ## Project Preview 🍔
 
-Here's a preview of the **Foodie** website:
+Here's a preview of the [Foodie](https://s-naveenkumar-001.github.io/Frontend-Fast-Food-Restaurant-Project/) website:
 
 ![Foodie Website Preview](https://github.com/s-naveenkumar-001/Frontend-Fast-Food-Restaurant-Project/blob/main/readme-images/desktop.png)
 
