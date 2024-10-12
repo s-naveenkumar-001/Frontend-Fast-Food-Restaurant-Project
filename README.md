@@ -1,4 +1,4 @@
-# Foodie - Supper Delicious Burger in Town! 😋
+# Foodie - Fast Food Website! 😋
 
 **Foodie** is a fast-food restaurant front-end project that showcases a modern, delicious, and responsive food ordering experience. Built using HTML, CSS, and JavaScript, it features a sleek design to attract burger and fast food lovers. The site offers easy navigation for browsing menus, making reservations, and exploring special promotions.
 
