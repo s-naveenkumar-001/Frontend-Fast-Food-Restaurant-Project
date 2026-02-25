@@ -64,6 +64,37 @@ for (let i = 0; i < searchBoxElems.length; i++) {
 
 
 /**
+ * food menu filter
+ */
+
+const filterBtns = document.querySelectorAll("[data-filter-btn]");
+const foodMenuItems = document.querySelectorAll(".food-menu-list > li[data-filter]");
+
+for (let i = 0; i < filterBtns.length; i++) {
+  filterBtns[i].addEventListener("click", function () {
+
+    for (let j = 0; j < filterBtns.length; j++) {
+      filterBtns[j].classList.remove("active");
+    }
+    this.classList.add("active");
+
+    const selectedFilter = this.dataset.filterBtn;
+
+    for (let k = 0; k < foodMenuItems.length; k++) {
+      if (selectedFilter === "all" || foodMenuItems[k].dataset.filter === selectedFilter) {
+        foodMenuItems[k].classList.remove("hidden");
+        foodMenuItems[k].classList.add("visible");
+      } else {
+        foodMenuItems[k].classList.remove("visible");
+        foodMenuItems[k].classList.add("hidden");
+      }
+    }
+  });
+}
+
+
+
+/**
  * move cycle on scroll
  */
 
